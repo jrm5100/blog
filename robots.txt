@@ -1,1 +1,1 @@
-Sitemap: https://jrm5100.github.io/blog/sitemap.xml
+Sitemap: https://mcguigan.dev/sitemap.xml
